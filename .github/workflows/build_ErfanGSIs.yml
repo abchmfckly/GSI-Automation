@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: Realmeme
+  ROM_URL: https://mva2.androidfilehost.com/dl/xhdSfwX-9OJTCfRchghujQ/1596953145/8889791610682900235/Realme-RMX1971-11C06.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
